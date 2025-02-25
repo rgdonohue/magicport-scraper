@@ -1,0 +1,591 @@
+name,mmsi,imo,call_sign,vessel_type__sub_type,gross_tonnage,deadweight,length,year_built,built_at_(shipyard),country,url
+YUENANSHAYU14072,412471168,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuenanshayu14072-mmsi-412471168
+YUENANSHAYU40010,412473238,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuenanshayu40010-mmsi-412473238
+YUENANSHAYU40076,412489794,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuenanshayu40076-mmsi-412489794
+YUENANSHAYUYUN29802,412534205,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuenanshayuyun29802-mmsi-412534205
+YUEPANYU05060,412462145,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yuepanyu05060-mmsi-412462145
+YUEPOYU20016,412482108,-,0000000,Fishing / FISHING,-,-,9 m,-,-,China,https://magicport.ai/vessels/fishing/yuepoyu20016-mmsi-412482108
+YUERAOYU00302,412440302,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueraoyu00302-mmsi-412440302
+YUERAOYU14023,412461422,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueraoyu14023-mmsi-412461422
+YUERAOYU31020 2 91,310200002,-,-,Fishing / FISHING,-,-,50 m,-,-,Bermuda,https://magicport.ai/vessels/fishing/yueraoyu31020-2-91-mmsi-310200002
+YUERAOYU32068,412472555,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueraoyu32068-mmsi-412472555
+YUERAOYU33057,412460429,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueraoyu33057-mmsi-412460429
+YUERAOYU34015,412460439,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueraoyu34015-mmsi-412460439
+YUERAOYU37027,412460508,-,-,Fishing / FISHING,-,-,17 m,-,-,-,https://magicport.ai/vessels/fishing/yueraoyu37027-mmsi-412460508
+YUERAOYU41097,412460188,-,41097,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/yueraoyu41097-mmsi-412460188
+YUERAOYU44101,412460668,-,44101,Fishing / FISHING,-,-,19 m,-,-,China,https://magicport.ai/vessels/fishing/yueraoyu44101-mmsi-412460668
+YUESHANCHENGYU18016,412474283,-,-,Fishing / FISHING,-,-,31 m,-,-,China,https://magicport.ai/vessels/fishing/yueshanchengyu18016-mmsi-412474283
+YUESHANWEIYU11309,412463122,-,-,Fishing / FISHING,-,-,38 m,-,-,China,https://magicport.ai/vessels/fishing/yueshanweiyu11309-mmsi-412463122
+YUESHANWEIYU12155,412472297,-,-,Fishing / FISHING,-,-,19 m,-,-,China,https://magicport.ai/vessels/fishing/yueshanweiyu12155-mmsi-412472297
+YUESHANWEIYU12167,412471983,-,0012167,Fishing / FISHING,-,-,19 m,-,-,China,https://magicport.ai/vessels/fishing/yueshanweiyu12167-mmsi-412471983
+YUESHANWEIYU12334,412472197,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yueshanweiyu12334-mmsi-412472197
+YUESHANWEIYU12452,412472504,-,12452,Fishing / FISHING,-,-,19 m,-,-,China,https://magicport.ai/vessels/fishing/yueshanweiyu12452-mmsi-412472504
+YUESHANWEIYUYUN01424,412472609,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yueshanweiyuyun01424-mmsi-412472609
+YUESHENSHANYU10391,412476479,-,-,Fishing / FISHING,-,-,8 m,-,-,-,https://magicport.ai/vessels/fishing/yueshenshanyu10391-mmsi-412476479
+YUESHENSHANYU10480,412476568,-,-,Fishing / FISHING,-,-,7 m,-,-,-,https://magicport.ai/vessels/fishing/yueshenshanyu10480-mmsi-412476568
+YUESUIYU03609,412537553,-,UUU,Fishing / FISHING,-,-,20 m,-,-,China,https://magicport.ai/vessels/fishing/yuesuiyu03609-mmsi-412537553
+YUESUIYU03881,412535871,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu03881-mmsi-412535871
+YUESUIYU03896,412535716,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu03896-mmsi-412535716
+YUESUIYU03948,412480439,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yuesuiyu03948-mmsi-412480439
+YUESUIYU04013,412481174,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu04013-mmsi-412481174
+YUESUIYU04053,412461705,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu04053-mmsi-412461705
+YUESUIYU11020,412480242,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu11020-mmsi-412480242
+YUESUIYU11092,412488536,-,11092,Fishing / FISHING,-,-,28 m,-,-,China,https://magicport.ai/vessels/fishing/yuesuiyu11092-mmsi-412488536
+YUESUIYU24086,412462444,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu24086-mmsi-412462444
+YUESUIYU32025,412489105,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu32025-mmsi-412489105
+YUESUIYU32169,412479734,-,0000000,Fishing / FISHING,-,-,16 m,-,-,China,https://magicport.ai/vessels/fishing/yuesuiyu32169-mmsi-412479734
+YUESUIYU32170,412479724,-,0000000,Fishing / FISHING,-,-,21 m,-,-,China,https://magicport.ai/vessels/fishing/yuesuiyu32170-mmsi-412479724
+YUESUIYU53374,412487262,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu53374-mmsi-412487262
+YUESUIYU53391,412487475,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu53391-mmsi-412487475
+YUESUIYU53407,412465087,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu53407-mmsi-412465087
+YUESUIYU53415,412467065,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu53415-mmsi-412467065
+YUESUIYU53418,412469283,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu53418-mmsi-412469283
+YUESUIYU53437,412461151,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu53437-mmsi-412461151
+YUESUIYU65221,412469226,-,-,Fishing / FISHING,-,-,9 m,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu65221-mmsi-412469226
+YUESUIYU83033,412533263,-,0000000,Fishing / FISHING,-,-,7 m,-,-,-,https://magicport.ai/vessels/fishing/yuesuiyu83033-mmsi-412533263
+YUETAIYU11038 L,412455521,-,-,Fishing / FISHING,-,-,32 m,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu11038-l-mmsi-412455521
+YUETAIYU12029,412461679,-,-,Fishing / FISHING,-,-,14 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu12029-mmsi-412461679
+YUETAIYU21100,412474947,-,0021100,Fishing / FISHING,-,-,8 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu21100-mmsi-412474947
+YUETAIYU23062,412525839,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu23062-mmsi-412525839
+YUETAIYU23144,412525823,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu23144-mmsi-412525823
+YUETAIYU31063,412464254,-,-,Fishing / FISHING,-,-,19 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu31063-mmsi-412464254
+YUETAIYU31102,412464267,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu31102-mmsi-412464267
+YUETAIYU31130,412464286,-,?????,Fishing / FISHING,-,-,19 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu31130-mmsi-412464286
+YUETAIYU31286,412473085,-,31286,Fishing / FISHING,-,-,22 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu31286-mmsi-412473085
+YUETAIYU31288,412474581,-,31288,Fishing / FISHING,-,-,23 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu31288-mmsi-412474581
+YUETAIYU32025,412461229,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu32025-mmsi-412461229
+YUETAIYU32050,413461389,-,32050,Fishing / FISHING,-,-,25 m,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu32050-mmsi-413461389
+YUETAIYU32085,412471252,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu32085-mmsi-412471252
+YUETAIYU32248,412460453,-,32248,Fishing / FISHING,-,-,23 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu32248-mmsi-412460453
+YUETAIYU32253,412463634,-,0016078,Fishing / FISHING,-,-,24 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu32253-mmsi-412463634
+YUETAIYU33020,412465199,-,33020,Fishing / FISHING,-,-,23 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu33020-mmsi-412465199
+YUETAIYU33098,412462692,-,33098,Fishing / FISHING,-,-,17 m,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu33098-mmsi-412462692
+YUETAIYU51107,412464664,-,51107,Fishing / FISHING,-,-,14 m,-,-,China,https://magicport.ai/vessels/fishing/yuetaiyu51107-mmsi-412464664
+YUETAIYU62084,412527776,-,-,Fishing / FISHING,-,-,5 m,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu62084-mmsi-412527776
+YUETAIYU62342,412526452,-,-,Fishing / FISHING,-,-,7 m,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu62342-mmsi-412526452
+YUETAIYU72027,412526449,-,0072027,Fishing / FISHING,-,-,7 m,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu72027-mmsi-412526449
+YUETAIYU81179,412475591,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu81179-mmsi-412475591
+YUETAIYU81223,412475624,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu81223-mmsi-412475624
+YUETAIYU81228,412475631,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu81228-mmsi-412475631
+YUETAIYU81373,412475733,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu81373-mmsi-412475733
+YUETAIYU81388,412475739,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu81388-mmsi-412475739
+YUETAIYU82021,412475784,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu82021-mmsi-412475784
+YUETAIYU82026,412475794,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu82026-mmsi-412475794
+YUETAIYU82032,412475798,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu82032-mmsi-412475798
+YUETAIYU82042,412475809,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuetaiyu82042-mmsi-412475809
+YUEWUYU10193,412462035,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuewuyu10193-mmsi-412462035
+YUEXIAYU90078,412480379,-,0000000,Fishing / FISHING,-,-,36 m,-,-,China,https://magicport.ai/vessels/fishing/yuexiayu90078-mmsi-412480379
+YUEXINHUI02124,412493942,-,0002124,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/yuexinhui02124-mmsi-412493942
+YUEXUWEN33301,412467857,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yuexuwen33301-mmsi-412467857
+YUEXUYU001,412432001,-,1234567,Fishing / FISHING,-,-,11 m,-,-,-,https://magicport.ai/vessels/fishing/yuexuyu001-mmsi-412432001
+YUEXUYU21013,412486595,-,-,Fishing / FISHING,-,-,11 m,-,-,-,https://magicport.ai/vessels/fishing/yuexuyu21013-mmsi-412486595
+YUEXUYU21078,412530163,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/yuexuyu21078-mmsi-412530163
+YUEXUYU21140,412486637,-,0000000,Fishing / FISHING,-,-,10 m,-,-,China,https://magicport.ai/vessels/fishing/yuexuyu21140-mmsi-412486637
+YUEXUYU22359,412531546,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuexuyu22359-mmsi-412531546
+YUEXUYU23075,412486758,-,0000000,Fishing / FISHING,-,-,10 m,-,-,China,https://magicport.ai/vessels/fishing/yuexuyu23075-mmsi-412486758
+YUEXUYU23160,412466986,-,-,Fishing / FISHING,-,-,11 m,-,-,-,https://magicport.ai/vessels/fishing/yuexuyu23160-mmsi-412466986
+YUEXUYU33274,412465579,-,0000000,Fishing / FISHING,-,-,13 m,-,-,-,https://magicport.ai/vessels/fishing/yuexuyu33274-mmsi-412465579
+YUEXUYU7098,412347098,-,-,Fishing / FISHING,-,-,16 m,-,-,-,https://magicport.ai/vessels/fishing/yuexuyu7098-mmsi-412347098
+YUEYANGDO G12128,412476556,-,0012128,Fishing / FISHING,-,-,20 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangdo-g12128-mmsi-412476556
+YUEYANGDONG11153,412476736,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangdong11153-mmsi-412476736
+YUEYANGDONG14161,412476309,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangdong14161-mmsi-412476309
+YUEYANGDONG15158,412476695,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangdong15158-mmsi-412476695
+YUEYANGDONG16108,412476301,-,0016108,Fishing / FISHING,-,-,19 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangdong16108-mmsi-412476301
+YUEYANGDONGYU 2 87,141990002,-,-,Fishing / FISHING,-,-,50 m,-,-,-,https://magicport.ai/vessels/fishing/yueyangdongyu-2-87-mmsi-141990002
+YUEYANGDONGYU10011,412479628,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yueyangdongyu10011-mmsi-412479628
+YUEYANGDONGYU10343,412463626,-,10343,Fishing / FISHING,-,-,19 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangdongyu10343-mmsi-412463626
+YUEYANGDONGYU12018,412464932,-,-,Fishing / FISHING,-,-,21 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangdongyu12018-mmsi-412464932
+YUEYANGDONGYU13065,412461321,-,13065,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangdongyu13065-mmsi-412461321
+YUEYANGDONGYU13113,412463434,-,13113,Fishing / FISHING,-,-,22 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangdongyu13113-mmsi-412463434
+YUEYANGDONGYU13136,412483539,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangdongyu13136-mmsi-412483539
+YUEYANGDONGYU15150,412476515,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangdongyu15150-mmsi-412476515
+YUEYANGDONGYU15183,412476965,-,0015183,Fishing / FISHING,-,-,10 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangdongyu15183-mmsi-412476965
+YUEYANGDONGYU16175,412476999,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangdongyu16175-mmsi-412476999
+YUEYANGDONGYU17008,412476431,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangdongyu17008-mmsi-412476431
+YUEYANGDONGYU19115,412462791,-,19115,Fishing / FISHING,-,-,11 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangdongyu19115-mmsi-412462791
+YUEYANGDONGYU19151,412461516,-,-,Fishing / FISHING,-,-,24 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangdongyu19151-mmsi-412461516
+YUEYANGDONGYU22009,412479938,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangdongyu22009-mmsi-412479938
+YUEYANGJIANG,412101825,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yueyangjiang-mmsi-412101825
+YUEYANGJIANG03038,412478297,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiang03038-mmsi-412478297
+YUEYANGJIANG41156,412477194,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiang41156-mmsi-412477194
+YUEYANGJIANG4123,412477314,-,0004123,Fishing / FISHING,-,-,17 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangjiang4123-mmsi-412477314
+YUEYANGJIANG90611,412475411,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiang90611-mmsi-412475411
+YUEYANGJIANG9513,412477902,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiang9513-mmsi-412477902
+YUEYANGJIANG9809,412477699,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiang9809-mmsi-412477699
+YUEYANGJIANG98098,412477647,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiang98098-mmsi-412477647
+YUEYANGJIANG99987,412478016,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiang99987-mmsi-412478016
+YUEYANGJIANGYU04183,412461157,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiangyu04183-mmsi-412461157
+YUEYANGJIANGYU05138,412477017,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiangyu05138-mmsi-412477017
+YUEYANGJIANGYU06226,412479055,-,0006226,Fishing / FISHING,-,-,24 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangjiangyu06226-mmsi-412479055
+YUEYANGJIANGYU07025,412480335,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangjiangyu07025-mmsi-412480335
+YUEYANGJIANGYU80201,412464535,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yueyangjiangyu80201-mmsi-412464535
+YUEYANGXI95338 0180,953380001,-,-,Fishing / FISHING,-,-,80 m,-,-,-,https://magicport.ai/vessels/fishing/yueyangxi95338-0180-mmsi-953380001
+YUEYANGXIYU10336,412469802,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu10336-mmsi-412469802
+YUEYANGXIYU24192,412530832,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu24192-mmsi-412530832
+YUEYANGXIYU24275,412533342,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu24275-mmsi-412533342
+YUEYANGXIYU24343,412480044,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu24343-mmsi-412480044
+YUEYANGXIYU24351,412533446,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu24351-mmsi-412533446
+YUEYANGXIYU24378,412480055,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu24378-mmsi-412480055
+YUEYANGXIYU32063,412475984,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yueyangxiyu32063-mmsi-412475984
+YUEYANGXIYU33066,412477986,-,PPPPP,Fishing / FISHING,-,-,38 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangxiyu33066-mmsi-412477986
+YUEYANGXIYU35081,412465278,-,0035081,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangxiyu35081-mmsi-412465278
+YUEYANGXIYU38655,412458631,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu38655-mmsi-412458631
+YUEYANGXIYU39058,412464659,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yueyangxiyu39058-mmsi-412464659
+YUEYANGXIYU39838,412476812,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu39838-mmsi-412476812
+YUEYANGXIYU81157,412532521,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yueyangxiyu81157-mmsi-412532521
+YUEYANGXIYU81171,412532695,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu81171-mmsi-412532695
+YUEYANGXIYU81282,412530787,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu81282-mmsi-412530787
+YUEYANGXIYU82039,412530938,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu82039-mmsi-412530938
+YUEYANGXIYU82088,412480699,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu82088-mmsi-412480699
+YUEYANGXIYU82147,412480713,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu82147-mmsi-412480713
+YUEYANGXIYU83035,412461547,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu83035-mmsi-412461547
+YUEYANGXIYU84136,412479547,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu84136-mmsi-412479547
+YUEYANGXIYU85042,412480783,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yueyangxiyu85042-mmsi-412480783
+YUEYANGXIYU95163,412480819,-,0,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangxiyu95163-mmsi-412480819
+YUEYANGXIYU95236,412538988,-,0095236,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangxiyu95236-mmsi-412538988
+YUEYANGXIYU96399,412463171,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyu96399-mmsi-412463171
+YUEYANGXIYU98001,412460702,-,96451,Fishing / FISHING,-,-,32 m,-,-,China,https://magicport.ai/vessels/fishing/yueyangxiyu98001-mmsi-412460702
+YUEYANGXIYUYANG02203,412488983,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangxiyuyang02203-mmsi-412488983
+YUEYANGYU81619 1 17,816190001,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyangyu81619-1-17-mmsi-816190001
+YUEYU40023,412468390,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yueyu40023-mmsi-412468390
+YUEZHAN01077 41 99,10770041,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhan01077-41-99-mmsi-10770041
+YUEZHANYU00013 2 99,130002,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu00013-2-99-mmsi-130002
+YUEZHANYU00192,412483533,-,00192,Fishing / FISHING,-,-,32 m,-,-,China,https://magicport.ai/vessels/fishing/yuezhanyu00192-mmsi-412483533
+YUEZHANYU00248,412462248,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yuezhanyu00248-mmsi-412462248
+YUEZHANYU00268 299,900268002,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu00268-299-mmsi-900268002
+YUEZHANYU00369,412470625,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu00369-mmsi-412470625
+YUEZHANYU00823,412481294,-,0000823,Fishing / FISHING,-,-,8 m,-,-,China,https://magicport.ai/vessels/fishing/yuezhanyu00823-mmsi-412481294
+YUEZHANYU01251,412461991,-,01251,Fishing / FISHING,-,-,17 m,-,-,China,https://magicport.ai/vessels/fishing/yuezhanyu01251-mmsi-412461991
+YUEZHANYU01804,412481327,-,-,Fishing / FISHING,-,-,7 m,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu01804-mmsi-412481327
+YUEZHANYU01855,412481387,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu01855-mmsi-412481387
+YUEZHANYU03825,412481676,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu03825-mmsi-412481676
+YUEZHANYU04153,412468621,-,04153,Fishing / FISHING,-,-,15 m,-,-,China,https://magicport.ai/vessels/fishing/yuezhanyu04153-mmsi-412468621
+YUEZHANYU05839,412481793,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu05839-mmsi-412481793
+YUEZHANYU07839,412481864,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu07839-mmsi-412481864
+YUEZHANYU07873,412481902,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu07873-mmsi-412481902
+YUEZHANYU07880,412481912,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu07880-mmsi-412481912
+YUEZHANYU07883,412481915,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu07883-mmsi-412481915
+YUEZHANYU17688,412017688,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhanyu17688-mmsi-412017688
+YUEZHONGYU82585,412473639,-,0000000,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/yuezhongyu82585-mmsi-412473639
+YUEZHUYU30011,412478736,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhuyu30011-mmsi-412478736
+YUEZHUYU52283,412488755,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhuyu52283-mmsi-412488755
+YUEZHUYU53234,412488716,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuezhuyu53234-mmsi-412488716
+YUEZHUYU90012,412478737,-,90012,Fishing / FISHING,-,-,33 m,-,-,China,https://magicport.ai/vessels/fishing/yuezhuyu90012-mmsi-412478737
+YUEZHUYUYANG11006,412467809,-,-,Fishing / FISHING,-,-,19 m,-,-,China,https://magicport.ai/vessels/fishing/yuezhuyuyang11006-mmsi-412467809
+YUEZHUYUYANG20019,412463251,-,20019,Fishing / FISHING,-,-,34 m,-,-,China,https://magicport.ai/vessels/fishing/yuezhuyuyang20019-mmsi-412463251
+YUEZHUYUYUN53090,412528368,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yuezhuyuyun53090-mmsi-412528368
+YUH CHERNG,416010435,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuh-cherng-mmsi-416010435
+YUH FENG TSAIR NO 1,416009613,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuh-feng-tsair-no-1-mmsi-416009613
+YUJIN666 12 70,413666012,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/yujin666-12-70-mmsi-413666012
+YUJIN666 29 80,413666029,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/yujin666-29-80-mmsi-413666029
+YUJIN888 06 94,413888006,-,Q234561,Fishing / FISHING,-,-,10 m,-,-,China,https://magicport.ai/vessels/fishing/yujin888-06-94-mmsi-413888006
+YUKLUYU28568,412544388,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yukluyu28568-mmsi-412544388
+YULAMHO,440084130,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yulamho-mmsi-440084130
+YUNG KWANG,440210950,-,-,Fishing / FISHING,-,-,-,-,-,South Korea,https://magicport.ai/vessels/fishing/yung-kwang-mmsi-440210950
+YUROPA HO,440725500,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuropa-ho-mmsi-440725500
+YUSEONGHO,440405320,-,500,Fishing / FISHING,-,-,-,-,-,South Korea,https://magicport.ai/vessels/fishing/yuseongho-mmsi-440405320
+YUTAKAMARU,431013368,-,-,Fishing / FISHING,-,-,12 m,-,-,Japan,https://magicport.ai/vessels/fishing/yutakamaru-mmsi-431013368
+YUUHOUMARU,431602163,-,-,Fishing / FISHING,-,-,24 m,-,-,Japan,https://magicport.ai/vessels/fishing/yuuhoumaru-mmsi-431602163
+YUURYOUMARU NO8,431013444,-,-,Fishing / FISHING,-,-,14 m,-,-,Japan,https://magicport.ai/vessels/fishing/yuuryoumaru-no8-mmsi-431013444
+YUWANGBIAO10178 62,10178041,-,-,Fishing / FISHING,-,-,8 m,-,-,-,https://magicport.ai/vessels/fishing/yuwangbiao10178-62-mmsi-10178041
+YUWANGBIAO12300 55,12300,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yuwangbiao12300-55-mmsi-12300
+YUWANGDONG 12 99,412700142,-,0000000,Fishing / FISHING,-,-,10 m,-,-,China,https://magicport.ai/vessels/fishing/yuwangdong-12-99-mmsi-412700142
+YUWANGGAOPIN450950,870000060,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/yuwanggaopin450950-mmsi-870000060
+YUWANGGAOPIN450950,870000062,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/yuwanggaopin450950-mmsi-870000062
+YYY,416999996,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yyy-mmsi-416999996
+YZY192,412453533,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/yzy192-mmsi-412453533
+Z ZEEB,331844000,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/z-zeeb-mmsi-331844000
+ZABLAY FREZZER JAYA,525212345,-,-,Fishing / FISHING,-,-,508 m,-,-,Indonesia,https://magicport.ai/vessels/fishing/zablay-frezzer-jaya-mmsi-525212345
+ZAD ALKHAIR ALAWAL,403708560,-,HZG3062,Fishing / FISHING,-,-,9 m,-,-,Saudi Arabia,https://magicport.ai/vessels/fishing/zad-alkhair-alawal-mmsi-403708560
+ZAI SHENG SING,416000512,-,BK7609,Fishing / FISHING,-,-,25 m,-,-,Taiwan,https://magicport.ai/vessels/fishing/zai-sheng-sing-mmsi-416000512
+ZAINAT AL BAHRAIN,408901171,-,-,Fishing / FISHING,-,-,-,-,-,Bahrain,https://magicport.ai/vessels/fishing/zainat-al-bahrain-mmsi-408901171
+ZARGA,642122079,-,5AZY,Fishing / FISHING,-,-,23 m,-,-,Libya,https://magicport.ai/vessels/fishing/zarga-mmsi-642122079
+ZAZA,408900699,-,-,Fishing / FISHING,-,-,-,-,-,Bahrain,https://magicport.ai/vessels/fishing/zaza-mmsi-408900699
+ZENMARU,431023446,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zenmaru-mmsi-431023446
+ZENRYU MARU NO.68,432860000,-,-,Fishing / FISHING,-,-,-,-,-,Japan,https://magicport.ai/vessels/fishing/zenryu-maru-no68-mmsi-432860000
+ZEUS,440401590,-,-,Fishing / FISHING,-,-,-,-,-,South Korea,https://magicport.ai/vessels/fishing/zeus-mmsi-440401590
+ZEYAD,408906563,-,-,Fishing / FISHING,-,-,-,-,-,Bahrain,https://magicport.ai/vessels/fishing/zeyad-mmsi-408906563
+ZHANGSHANG NO.1,416067255,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhangshang-no1-mmsi-416067255
+ZHE 10307,412510307,-,-,Fishing / FISHING,-,-,24 m,-,-,China,https://magicport.ai/vessels/fishing/zhe-10307-mmsi-412510307
+ZHE CANG YU 00211,870000211,-,00211,Fishing / FISHING,-,-,15 m,-,-,-,https://magicport.ai/vessels/fishing/zhe-cang-yu-00211-mmsi-870000211
+ZHE CANG YU 01070,412432581,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-cang-yu-01070-mmsi-412432581
+ZHE CANG YU 01306,412432653,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-cang-yu-01306-mmsi-412432653
+ZHE CANG YU 4479,412432896,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-cang-yu-4479-mmsi-412432896
+ZHE DAI YU 03592 97,200000065,-,-,Fishing / FISHING,-,-,30 m,-,-,-,https://magicport.ai/vessels/fishing/zhe-dai-yu-03592-97-mmsi-200000065
+ZHE DAI YU 03915,412426542,-,03915,Fishing / FISHING,-,-,50 m,-,-,China,https://magicport.ai/vessels/fishing/zhe-dai-yu-03915-mmsi-412426542
+ZHE DAI YU 05103,412426317,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-dai-yu-05103-mmsi-412426317
+ZHE DAI YU 17307,412425977,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-dai-yu-17307-mmsi-412425977
+ZHE DAI YU 71903,900444444,-,12345,Fishing / FISHING,-,-,14 m,-,-,-,https://magicport.ai/vessels/fishing/zhe-dai-yu-71903-mmsi-900444444
+ZHE DAI YU YUN09928,412426085,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-dai-yu-yun09928-mmsi-412426085
+ZHE DAI YU06315,900406315,-,XIPU,Fishing / FISHING,-,-,14 m,-,-,-,https://magicport.ai/vessels/fishing/zhe-dai-yu06315-mmsi-900406315
+ZHE DING YU 12140,412410435,-,-,Fishing / FISHING,-,-,35 m,-,-,China,https://magicport.ai/vessels/fishing/zhe-ding-yu-12140-mmsi-412410435
+ZHE DONG YU 31010,412430996,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-dong-yu-31010-mmsi-412430996
+ZHE DONG YU 31012,412430994,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-dong-yu-31012-mmsi-412430994
+ZHE JIAO YU 60011 08,412001108,-,00883,Fishing / FISHING,-,-,14 m,-,-,China,https://magicport.ai/vessels/fishing/zhe-jiao-yu-60011-08-mmsi-412001108
+ZHE JYAO YU 50018,412411719,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-jyao-yu-50018-mmsi-412411719
+ZHE LIN YU 01253,200123088,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-lin-yu-01253-mmsi-200123088
+ZHE LIN YU 12155,412413329,-,-,Fishing / FISHING,-,-,45 m,-,-,China,https://magicport.ai/vessels/fishing/zhe-lin-yu-12155-mmsi-412413329
+ZHE LIN YU 12836,412475663,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhe-lin-yu-12836-mmsi-412475663
+ZHE LIN YU 88156,200203262,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-lin-yu-88156-mmsi-200203262
+ZHE LIN YU12168,412413845,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhe-lin-yu12168-mmsi-412413845
+ZHE LIN YU12371,412413892,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-lin-yu12371-mmsi-412413892
+ZHE LIN YU12810,412413282,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-lin-yu12810-mmsi-412413282
+ZHE LIN YU2367,413415680,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-lin-yu2367-mmsi-413415680
+ZHE LING YU 11009,200012307,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-ling-yu-11009-mmsi-200012307
+ZHE LING YU 96016,200011893,-,-,Fishing / FISHING,-,-,47 m,-,-,-,https://magicport.ai/vessels/fishing/zhe-ling-yu-96016-mmsi-200011893
+ZHE LU YU 81055,412413399,-,81055,Fishing / FISHING,-,-,9 m,-,-,China,https://magicport.ai/vessels/fishing/zhe-lu-yu-81055-mmsi-412413399
+ZHE LU YU 88851,412410729,-,88851,Fishing / FISHING,-,-,33 m,-,-,China,https://magicport.ai/vessels/fishing/zhe-lu-yu-88851-mmsi-412410729
+ZHE NING YU XIU66076,412438385,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-ning-yu-xiu66076-mmsi-412438385
+ZHE PING YU 82075,412426034,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhe-ping-yu-82075-mmsi-412426034
+ZHE PU YU YUN 18331,200022461,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-pu-yu-yun-18331-mmsi-200022461
+ZHE PU YU YUN 38989,412420650,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-pu-yu-yun-38989-mmsi-412420650
+ZHE RUI YU 19224,412431089,-,000000,Fishing / FISHING,-,-,11 m,-,-,-,https://magicport.ai/vessels/fishing/zhe-rui-yu-19224-mmsi-412431089
+ZHE SHE NGYUYU 81336,412428797,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-she-ngyuyu-81336-mmsi-412428797
+ZHE SHENG YU 01250,412000060,-,060,Fishing / FISHING,-,-,18 m,-,-,China,https://magicport.ai/vessels/fishing/zhe-sheng-yu-01250-mmsi-412000060
+ZHE SHENG YU 10159,412415999,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-sheng-yu-10159-mmsi-412415999
+ZHE SHENG YUYUN81356,412428885,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-sheng-yuyun81356-mmsi-412428885
+ZHE XIANG YU 66087,200000537,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-xiang-yu-66087-mmsi-200000537
+ZHE XIANGYU40170,412430170,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe-xiangyu40170-mmsi-412430170
+ZHE32099 24 88,412320995,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhe32099-24-88-mmsi-412320995
+ZHECAND,411041792,1572864,6110,Fishing / FISHING,-,-,78 m,-,-,-,https://magicport.ai/vessels/fishing/zhecand-mmsi-411041792
+ZHECANGYU00270,412432114,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhecangyu00270-mmsi-412432114
+ZHECANGYU00817,412432383,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu00817-mmsi-412432383
+ZHECANGYU02388 24,412214594,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu02388-24-mmsi-412214594
+ZHECANGYU02388 26,412214596,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu02388-26-mmsi-412214596
+ZHECANGYU02388 34,412214604,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu02388-34-mmsi-412214604
+ZHECANGYU02565,412433417,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu02565-mmsi-412433417
+ZHECANGYU0277,412432118,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu0277-mmsi-412432118
+ZHECANGYU02829,412433568,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu02829-mmsi-412433568
+ZHECANGYU02908,900002908,-,02908,Fishing / FISHING,-,-,70 m,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu02908-mmsi-900002908
+ZHECANGYU04666 9 82,412501719,-,0000000,Fishing / FISHING,-,-,10 m,-,-,China,https://magicport.ai/vessels/fishing/zhecangyu04666-9-82-mmsi-412501719
+ZHECANGYU06118,412432469,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu06118-mmsi-412432469
+ZHECANGYU083658,413774309,47,0,Fishing / FISHING,-,-,44 m,-,-,China,https://magicport.ai/vessels/fishing/zhecangyu083658-mmsi-413774309
+ZHECANGYU86012,412413113,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhecangyu86012-mmsi-412413113
+ZHECANGYU86059,412413209,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhecangyu86059-mmsi-412413209
+ZHECANGYU86075,412413267,-,-,Fishing / FISHING,-,-,33 m,-,-,China,https://magicport.ai/vessels/fishing/zhecangyu86075-mmsi-412413267
+ZHECANGYUXIU86662,412432534,-,-,Fishing / FISHING,-,-,26 m,-,-,China,https://magicport.ai/vessels/fishing/zhecangyuxiu86662-mmsi-412432534
+ZHECANGYUXIU86675,412410452,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhecangyuxiu86675-mmsi-412410452
+ZHECANGYUYUN00599,412433496,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhecangyuyun00599-mmsi-412433496
+ZHECIYU13218,412438653,-,-,Fishing / FISHING,-,-,11 m,-,-,China,https://magicport.ai/vessels/fishing/zheciyu13218-mmsi-412438653
+ZHEDAGYUYUN03328,412423753,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedagyuyun03328-mmsi-412423753
+ZHEDAIYU 04498 1 80,44980001,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu-04498-1-80-mmsi-44980001
+ZHEDAIYU01128,412425838,-,-,Fishing / FISHING,-,-,45 m,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyu01128-mmsi-412425838
+ZHEDAIYU01150 9 73,109000039,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu01150-9-73-mmsi-109000039
+ZHEDAIYU03197,412425697,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu03197-mmsi-412425697
+ZHEDAIYU03507,412427201,-,-,Fishing / FISHING,-,-,50 m,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyu03507-mmsi-412427201
+ZHEDAIYU04222 33 99,412202229,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyu04222-33-99-mmsi-412202229
+ZHEDAIYU04365 14 80,43650014,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu04365-14-80-mmsi-43650014
+ZHEDAIYU04389 9 55,412439809,-,-,Fishing / FISHING,-,-,11 m,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu04389-9-55-mmsi-412439809
+ZHEDAIYU04497,412426511,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu04497-mmsi-412426511
+ZHEDAIYU04880,412426767,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu04880-mmsi-412426767
+ZHEDAIYU05329,412425655,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu05329-mmsi-412425655
+ZHEDAIYU06751 35 77,777777712,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu06751-35-77-mmsi-777777712
+ZHEDAIYU06859,412425307,-,06859,Fishing / FISHING,-,-,48 m,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyu06859-mmsi-412425307
+ZHEDAIYU11229,412425453,-,0000000,Fishing / FISHING,-,-,39 m,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyu11229-mmsi-412425453
+ZHEDAIYU11689,900411689,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu11689-mmsi-900411689
+ZHEDAIYU11878,412427123,-,0000000,Fishing / FISHING,-,-,30 m,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyu11878-mmsi-412427123
+ZHEDAIYU14218,412427392,-,-,Fishing / FISHING,-,-,25 m,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyu14218-mmsi-412427392
+ZHEDAIYU15187 4 0,61518704,-,6%,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu15187-4-0-mmsi-61518704
+ZHEDAIYU15216,412427261,-,15386,Fishing / FISHING,-,-,43 m,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyu15216-mmsi-412427261
+ZHEDAIYU15287 5 93,61528705,-,100%,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu15287-5-93-mmsi-61528705
+ZHEDAIYU15568 01 91,155680001,-,-,Fishing / FISHING,-,-,80 m,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu15568-01-91-mmsi-155680001
+ZHEDAIYU72088,412426649,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu72088-mmsi-412426649
+ZHEDAIYU73027,412411074,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyu73027-mmsi-412411074
+ZHEDAIYU77340,412427408,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyu77340-mmsi-412427408
+ZHEDAIYUYANG00008,412420499,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyuyang00008-mmsi-412420499
+ZHEDAIYUYOU00003,412426854,-,-,Fishing / FISHING,-,-,20 m,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyuyou00003-mmsi-412426854
+ZHEDAIYUYOU00116,412427249,-,-,Fishing / FISHING,-,-,24 m,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyuyou00116-mmsi-412427249
+ZHEDAIYUYUN 01577,412201577,-,-,Fishing / FISHING,-,-,50 m,-,-,-,https://magicport.ai/vessels/fishing/zhedaiyuyun-01577-mmsi-412201577
+ZHEDAIYUYUN05715,412425864,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyuyun05715-mmsi-412425864
+ZHEDAIYUYUN08517,412425842,-,0000000,Fishing / FISHING,-,-,39 m,-,-,China,https://magicport.ai/vessels/fishing/zhedaiyuyun08517-mmsi-412425842
+ZHEDEQINGHUO1335,413808688,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedeqinghuo1335-mmsi-413808688
+ZHEDINGYU04128,412424576,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedingyu04128-mmsi-412424576
+ZHEDONGYU10715,412430649,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedongyu10715-mmsi-412430649
+ZHEDONGYU68223,412430256,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedongyu68223-mmsi-412430256
+ZHEDONGYU81050,412430793,-,DY81050,Fishing / FISHING,-,-,16 m,-,-,China,https://magicport.ai/vessels/fishing/zhedongyu81050-mmsi-412430793
+ZHEDONGYU8736,412430433,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedongyu8736-mmsi-412430433
+ZHEDONGYUYUN00987,412416717,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhedongyuyun00987-mmsi-412416717
+ZHEFENGYU11066,412438881,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhefengyu11066-mmsi-412438881
+ZHEFENGYU16071,412432239,-,-,Fishing / FISHING,-,-,40 m,-,-,China,https://magicport.ai/vessels/fishing/zhefengyu16071-mmsi-412432239
+ZHEFENGYU17022,412438632,-,-,Fishing / FISHING,-,-,38 m,-,-,China,https://magicport.ai/vessels/fishing/zhefengyu17022-mmsi-412438632
+ZHEFENGYU21038,412439447,-,21038,Fishing / FISHING,-,-,38 m,-,-,China,https://magicport.ai/vessels/fishing/zhefengyu21038-mmsi-412439447
+ZHEFENGYU22026,412438169,-,22026,Fishing / FISHING,-,-,40 m,-,-,China,https://magicport.ai/vessels/fishing/zhefengyu22026-mmsi-412438169
+ZHEFENGYU26011,900026011,-,-,Fishing / FISHING,-,-,30 m,-,-,-,https://magicport.ai/vessels/fishing/zhefengyu26011-mmsi-900026011
+ZHEFENGYU26055,412437724,-,H,Fishing / FISHING,-,-,38 m,-,-,China,https://magicport.ai/vessels/fishing/zhefengyu26055-mmsi-412437724
+ZHEFENGYU30676,412438977,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhefengyu30676-mmsi-412438977
+ZHEFENGYUXIU60071,412438559,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhefengyuxiu60071-mmsi-412438559
+ZHEFENGYUYUN00087,412437905,-,-,Fishing / FISHING,-,-,55 m,-,-,China,https://magicport.ai/vessels/fishing/zhefengyuyun00087-mmsi-412437905
+ZHEGANGHANGXUN0883,412412883,-,-,Fishing / FISHING,-,-,33 m,-,-,China,https://magicport.ai/vessels/fishing/zheganghangxun0883-mmsi-412412883
+ZHEHAIHUANJIAN,412421760,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhehaihuanjian-mmsi-412421760
+ZHEHUZHOUHUO3869,413853264,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhehuzhouhuo3869-mmsi-413853264
+ZHEJIAOYU1593,412412884,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhejiaoyu1593-mmsi-412412884
+ZHEJIAOYU1886,412412992,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhejiaoyu1886-mmsi-412412992
+ZHEJIAOYU76073,412413020,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhejiaoyu76073-mmsi-412413020
+ZHEJIAOYU83080 3599,400000035,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhejiaoyu83080-3599-mmsi-400000035
+ZHEJIAOYUYUN88816,412411860,-,88816,Fishing / FISHING,-,-,40 m,-,-,China,https://magicport.ai/vessels/fishing/zhejiaoyuyun88816-mmsi-412411860
+ZHELINGYU00052,412418794,-,00052,Fishing / FISHING,-,-,20 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu00052-mmsi-412418794
+ZHELINGYU08001,412418801,-,08001,Fishing / FISHING,-,-,24 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu08001-mmsi-412418801
+ZHELINGYU08078,412416357,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu08078-mmsi-412416357
+ZHELINGYU08738,412408738,-,08738,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu08738-mmsi-412408738
+ZHELINGYU12116,412416401,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu12116-mmsi-412416401
+ZHELINGYU17005,412417538,-,23121,Fishing / FISHING,-,-,40 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu17005-mmsi-412417538
+ZHELINGYU21897,412418533,-,21897,Fishing / FISHING,-,-,31 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu21897-mmsi-412418533
+ZHELINGYU23118,412417578,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu23118-mmsi-412417578
+ZHELINGYU23201,412418564,-,61067,Fishing / FISHING,-,-,42 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu23201-mmsi-412418564
+ZHELINGYU25805,412418897,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu25805-mmsi-412418897
+ZHELINGYU25807,412416117,-,25807,Fishing / FISHING,-,-,32 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu25807-mmsi-412416117
+ZHELINGYU25810,412425810,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu25810-mmsi-412425810
+ZHELINGYU25882,412419109,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu25882-mmsi-412419109
+ZHELINGYU26883,412419623,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu26883-mmsi-412419623
+ZHELINGYU26999,412418538,-,26999,Fishing / FISHING,-,-,39 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu26999-mmsi-412418538
+ZHELINGYU29911,412416689,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu29911-mmsi-412416689
+ZHELINGYU33201,412033201,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu33201-mmsi-412033201
+ZHELINGYU45028,412419791,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu45028-mmsi-412419791
+ZHELINGYU45038,412416978,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu45038-mmsi-412416978
+ZHELINGYU58076,412419437,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu58076-mmsi-412419437
+ZHELINGYU58101,412416981,-,23509,Fishing / FISHING,-,-,29 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu58101-mmsi-412416981
+ZHELINGYU69009,412419719,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu69009-mmsi-412419719
+ZHELINGYU69036,412417198,-,-,Fishing / FISHING,-,-,31 m,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu69036-mmsi-412417198
+ZHELINGYU69121,412417231,-,11078,Fishing / FISHING,-,-,34 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu69121-mmsi-412417231
+ZHELINGYU88053 7 01,108805307,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu88053-7-01-mmsi-108805307
+ZHELINGYU94022,412419742,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyu94022-mmsi-412419742
+ZHELINGYU98078,412109807,-,-,Fishing / FISHING,-,-,1022 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyu98078-mmsi-412109807
+ZHELINGYUYOU60028,412417845,-,60028,Fishing / FISHING,-,-,24 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyuyou60028-mmsi-412417845
+ZHELINGYUYUN20084,412418383,-,20084,Fishing / FISHING,-,-,34 m,-,-,China,https://magicport.ai/vessels/fishing/zhelingyuyun20084-mmsi-412418383
+ZHELINGYUYUN31063,413331063,-,66671,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyuyun31063-mmsi-413331063
+ZHELINGYUYUN31298,413853349,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelingyuyun31298-mmsi-413853349
+ZHELINYU12013,412413889,-,12013,Fishing / FISHING,-,-,39 m,-,-,China,https://magicport.ai/vessels/fishing/zhelinyu12013-mmsi-412413889
+ZHELINYU12034,412413259,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelinyu12034-mmsi-412413259
+ZHELINYU12098,412413068,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelinyu12098-mmsi-412413068
+ZHELINYU12778,412413529,-,12778,Fishing / FISHING,-,-,15 m,-,-,-,https://magicport.ai/vessels/fishing/zhelinyu12778-mmsi-412413529
+ZHELINYU21156,412413225,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhelinyu21156-mmsi-412413225
+ZHELINYU21333,412413292,-,-,Fishing / FISHING,-,-,33 m,-,-,-,https://magicport.ai/vessels/fishing/zhelinyu21333-mmsi-412413292
+ZHELINYU21533,412413872,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelinyu21533-mmsi-412413872
+ZHELINYU21576,900321576,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelinyu21576-mmsi-900321576
+ZHELINYU21918 03 99,302191803,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelinyu21918-03-99-mmsi-302191803
+ZHELINYU21997,412413352,-,21997,Fishing / FISHING,-,-,44 m,-,-,China,https://magicport.ai/vessels/fishing/zhelinyu21997-mmsi-412413352
+ZHELINYUYUN21003,412413451,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelinyuyun21003-mmsi-412413451
+ZHELINYUYUN21668,412413171,-,-,Fishing / FISHING,-,-,38 m,-,-,China,https://magicport.ai/vessels/fishing/zhelinyuyun21668-mmsi-412413171
+ZHELINYUYUN219,412413459,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelinyuyun219-mmsi-412413459
+ZHELONGGANGYU00482,412432256,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhelonggangyu00482-mmsi-412432256
+ZHELONGGANGYU00586,412432312,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhelonggangyu00586-mmsi-412432312
+ZHELONGGANGYU01186,412432995,-,BLG1186,Fishing / FISHING,-,-,13 m,-,-,China,https://magicport.ai/vessels/fishing/zhelonggangyu01186-mmsi-412432995
+ZHELONGGANGYU02966,412411888,-,BLG2966,Fishing / FISHING,-,-,38 m,-,-,-,https://magicport.ai/vessels/fishing/zhelonggangyu02966-mmsi-412411888
+ZHELONGYU66686,412460186,-,66686,Fishing / FISHING,-,-,35 m,-,-,China,https://magicport.ai/vessels/fishing/zhelongyu66686-mmsi-412460186
+ZHELUYU88833,200018253,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheluyu88833-mmsi-200018253
+ZHELUYUYUN88095,412410329,-,81828,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/zheluyuyun88095-mmsi-412410329
+ZHEN FENG NO.88,416000211,-,-,Fishing / FISHING,-,-,-,-,-,Taiwan,https://magicport.ai/vessels/fishing/zhen-feng-no88-mmsi-416000211
+ZHEN FENG YU NO.1,416001075,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhen-feng-yu-no1-mmsi-416001075
+ZHENINGYU63887,412437468,-,-,Fishing / FISHING,-,-,12 m,-,-,-,https://magicport.ai/vessels/fishing/zheningyu63887-mmsi-412437468
+ZHENINGYU72087,412437519,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheningyu72087-mmsi-412437519
+ZHENINGYU77203,412438436,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheningyu77203-mmsi-412438436
+ZHENINGYU77271,412435216,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheningyu77271-mmsi-412435216
+ZHENINGYU81113 1,811130001,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheningyu81113-1-mmsi-811130001
+ZHENINGYUXIU66038,412437337,-,-,Fishing / FISHING,-,-,30 m,-,-,-,https://magicport.ai/vessels/fishing/zheningyuxiu66038-mmsi-412437337
+ZHEPINGHUYU00416,412411683,-,-,Fishing / FISHING,-,-,11 m,-,-,-,https://magicport.ai/vessels/fishing/zhepinghuyu00416-mmsi-412411683
+ZHEPINGHUYU00691,412411714,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhepinghuyu00691-mmsi-412411714
+ZHEPINGHUYU00770,412410266,-,-,Fishing / FISHING,-,-,12 m,-,-,-,https://magicport.ai/vessels/fishing/zhepinghuyu00770-mmsi-412410266
+ZHEPINGYU61126,412434704,-,-,Fishing / FISHING,-,-,28 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu61126-mmsi-412434704
+ZHEPINGYU62807,412433836,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepingyu62807-mmsi-412433836
+ZHEPINGYU62824,412433851,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepingyu62824-mmsi-412433851
+ZHEPINGYU64479,412434183,-,PY64479,Fishing / FISHING,-,-,13 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu64479-mmsi-412434183
+ZHEPINGYU80200,412433689,-,PY90239,Fishing / FISHING,-,-,9 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu80200-mmsi-412433689
+ZHEPINGYU82122,412412057,-,82122,Fishing / FISHING,-,-,14 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu82122-mmsi-412412057
+ZHEPINGYU82195,412411344,-,PY82195,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu82195-mmsi-412411344
+ZHEPINGYU90022,412434154,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepingyu90022-mmsi-412434154
+ZHEPINGYU90079,412433793,-,PY90079,Fishing / FISHING,-,-,11 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu90079-mmsi-412433793
+ZHEPINGYU90100,412433753,-,PY90100,Fishing / FISHING,-,-,9 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu90100-mmsi-412433753
+ZHEPINGYU90223,412433726,-,PY90223,Fishing / FISHING,-,-,8 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu90223-mmsi-412433726
+ZHEPINGYU90242,412433671,-,PY90242,Fishing / FISHING,-,-,11 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu90242-mmsi-412433671
+ZHEPINGYU90248,412433656,-,PY90248,Fishing / FISHING,-,-,8 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu90248-mmsi-412433656
+ZHEPINGYU90265,412434034,-,PY90265,Fishing / FISHING,-,-,10 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu90265-mmsi-412434034
+ZHEPINGYU90339,412433919,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepingyu90339-mmsi-412433919
+ZHEPINGYU90455,412434061,-,PY90455,Fishing / FISHING,-,-,144 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyu90455-mmsi-412434061
+ZHEPINGYUYUN88879,412433963,-,PY88879,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/zhepingyuyun88879-mmsi-412433963
+ZHEPUY68227,900268227,-,-,Fishing / FISHING,-,-,42 m,-,-,-,https://magicport.ai/vessels/fishing/zhepuy68227-mmsi-900268227
+ZHEPUYU01003,412423706,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu01003-mmsi-412423706
+ZHEPUYU01986,412421779,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu01986-mmsi-412421779
+ZHEPUYU01998,900201988,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu01998-mmsi-900201988
+ZHEPUYU03066,412424352,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu03066-mmsi-412424352
+ZHEPUYU18350,412422215,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhepuyu18350-mmsi-412422215
+ZHEPUYU19188,412422273,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu19188-mmsi-412422273
+ZHEPUYU19257,415930001,-,US&1925,Fishing / FISHING,-,-,37 m,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu19257-mmsi-415930001
+ZHEPUYU21577,412422155,-,21577,Fishing / FISHING,-,-,38 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyu21577-mmsi-412422155
+ZHEPUYU30030 5,201803005,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu30030-5-mmsi-201803005
+ZHEPUYU31127,412421762,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu31127-mmsi-412421762
+ZHEPUYU42186,900242186,-,-,Fishing / FISHING,-,-,45 m,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu42186-mmsi-900242186
+ZHEPUYU43043,412422085,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu43043-mmsi-412422085
+ZHEPUYU43057,412422095,-,0000000,Fishing / FISHING,-,-,35 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyu43057-mmsi-412422095
+ZHEPUYU43086,412422099,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu43086-mmsi-412422099
+ZHEPUYU44176,412422016,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu44176-mmsi-412422016
+ZHEPUYU68159,412422922,-,68159,Fishing / FISHING,-,-,31 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyu68159-mmsi-412422922
+ZHEPUYU68618,412424271,-,68618,Fishing / FISHING,-,-,36 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyu68618-mmsi-412424271
+ZHEPUYU68973,412424176,-,0000000,Fishing / FISHING,-,-,37 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyu68973-mmsi-412424176
+ZHEPUYU70064,412423311,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu70064-mmsi-412423311
+ZHEPUYU71106,412422466,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyu71106-mmsi-412422466
+ZHEPUYU71108,412423305,-,-,Fishing / FISHING,-,-,30 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyu71108-mmsi-412423305
+ZHEPUYULEN69256,412421524,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhepuyulen69256-mmsi-412421524
+ZHEPUYULENG26886,412422292,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyuleng26886-mmsi-412422292
+ZHEPUYUXIU50065,412424441,-,XIPU,Fishing / FISHING,-,-,15 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyuxiu50065-mmsi-412424441
+ZHEPUYUXIU60087,412424323,-,-,Fishing / FISHING,-,-,15 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyuxiu60087-mmsi-412424323
+ZHEPUYUYOU30007,412422262,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyuyou30007-mmsi-412422262
+ZHEPUYUYUN00189,413580907,-,-,Fishing / FISHING,-,-,40 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyuyun00189-mmsi-413580907
+ZHEPUYUYUN28647,412420616,-,-,Fishing / FISHING,-,-,30 m,-,-,China,https://magicport.ai/vessels/fishing/zhepuyuyun28647-mmsi-412420616
+ZHEPUYUYUN38339,412422677,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyuyun38339-mmsi-412422677
+ZHEPUYUYUN48329,412422484,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyuyun48329-mmsi-412422484
+ZHEPUYUYUN68365,412422544,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyuyun68365-mmsi-412422544
+ZHEPUYUYUN68686,412424406,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyuyun68686-mmsi-412424406
+ZHEPUYUYUN68799,412422762,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyuyun68799-mmsi-412422762
+ZHEPUYUYUN68885,412423304,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhepuyuyun68885-mmsi-412423304
+ZHEPUYUYUN88822,412422597,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhepuyuyun88822-mmsi-412422597
+ZHERUIYU01106,412431261,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu01106-mmsi-412431261
+ZHERUIYU02901,412431961,-,-,Fishing / FISHING,-,-,12 m,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu02901-mmsi-412431961
+ZHERUIYU13001 16 99,130010016,-,-,Fishing / FISHING,-,-,30 m,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu13001-16-99-mmsi-130010016
+ZHERUIYU13001 87 99,130010087,-,-,Fishing / FISHING,-,-,30 m,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu13001-87-99-mmsi-130010087
+ZHERUIYU19206,412412792,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu19206-mmsi-412412792
+ZHERUIYU20096,412431169,-,RA20043,Fishing / FISHING,-,-,11 m,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu20096-mmsi-412431169
+ZHERUIYU21023,412411797,-,-,Fishing / FISHING,-,-,9 m,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu21023-mmsi-412411797
+ZHERUIYU22006,412412761,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu22006-mmsi-412412761
+ZHERUIYU91016,412431245,-,RA91016,Fishing / FISHING,-,-,10 m,-,-,China,https://magicport.ai/vessels/fishing/zheruiyu91016-mmsi-412431245
+ZHERUIYU91054,412431302,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu91054-mmsi-412431302
+ZHERUIYU91150,412431469,-,RA91150,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/zheruiyu91150-mmsi-412431469
+ZHERUIYU91160,412431533,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheruiyu91160-mmsi-412431533
+ZHERUIYUYUN00106,412431797,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheruiyuyun00106-mmsi-412431797
+ZHESAN00071,200000071,-,-,Fishing / FISHING,-,-,75 m,-,-,-,https://magicport.ai/vessels/fishing/zhesan00071-mmsi-200000071
+ZHESANYU00228,412411264,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhesanyu00228-mmsi-412411264
+ZHESANYU02003,412411427,-,P,Fishing / FISHING,-,-,11 m,-,-,-,https://magicport.ai/vessels/fishing/zhesanyu02003-mmsi-412411427
+ZHESANYU07522,412411061,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhesanyu07522-mmsi-412411061
+ZHESANYU08558,412411463,-,-,Fishing / FISHING,-,-,12 m,-,-,-,https://magicport.ai/vessels/fishing/zhesanyu08558-mmsi-412411463
+ZHESANYU09408,412414981,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhesanyu09408-mmsi-412414981
+ZHESANYUYOU128,412411161,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhesanyuyou128-mmsi-412411161
+ZHESHENGYU00106,900300106,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu00106-mmsi-900300106
+ZHESHENGYU01237 9,900001237,-,-,Fishing / FISHING,-,-,8 m,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu01237-9-mmsi-900001237
+ZHESHENGYU03105,412428422,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu03105-mmsi-412428422
+ZHESHENGYU03178 4,900403178,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu03178-4-mmsi-900403178
+ZHESHENGYU05001 2,412429263,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu05001-2-mmsi-412429263
+ZHESHENGYU05428,412428706,-,05428,Fishing / FISHING,-,-,44 m,-,-,China,https://magicport.ai/vessels/fishing/zheshengyu05428-mmsi-412428706
+ZHESHENGYU05601,900305601,-,-,Fishing / FISHING,-,-,19 m,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu05601-mmsi-900305601
+ZHESHENGYU05807,412428596,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu05807-mmsi-412428596
+ZHESHENGYU07322,900307322,-,0,Fishing / FISHING,-,-,50 m,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu07322-mmsi-900307322
+ZHESHENGYU07726,412429583,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zheshengyu07726-mmsi-412429583
+ZHESHENGYU08308,412429256,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu08308-mmsi-412429256
+ZHESHENGYU10735,412413698,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zheshengyu10735-mmsi-412413698
+ZHESHENGYU13323,412428501,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zheshengyu13323-mmsi-412428501
+ZHESHENGYU30488,412429212,-,0000000,Fishing / FISHING,-,-,11 m,-,-,China,https://magicport.ai/vessels/fishing/zheshengyu30488-mmsi-412429212
+ZHESHENGYU62118,412429393,-,0000000,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/zheshengyu62118-mmsi-412429393
+ZHESHENGYU62126,412429398,-,0000000,Fishing / FISHING,-,-,12 m,-,-,China,https://magicport.ai/vessels/fishing/zheshengyu62126-mmsi-412429398
+ZHESHENGYU64146,412429909,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu64146-mmsi-412429909
+ZHESHENGYU64181,412429914,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu64181-mmsi-412429914
+ZHESHENGYU67103,412429327,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyu67103-mmsi-412429327
+ZHESHENGYU67186,412410216,-,-,Fishing / FISHING,-,-,14 m,-,-,China,https://magicport.ai/vessels/fishing/zheshengyu67186-mmsi-412410216
+ZHESHENGYUXIU10049,412429662,-,10049,Fishing / FISHING,-,-,15 m,-,-,China,https://magicport.ai/vessels/fishing/zheshengyuxiu10049-mmsi-412429662
+ZHESHENGYUYUN80377,412428606,-,-,Fishing / FISHING,-,-,28 m,-,-,China,https://magicport.ai/vessels/fishing/zheshengyuyun80377-mmsi-412428606
+ZHESHENGYUYUN80616,412427912,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyuyun80616-mmsi-412427912
+ZHESHENGYUYUN80620,412428601,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyuyun80620-mmsi-412428601
+ZHESHENGYUYUN80828,412428798,-,80828,Fishing / FISHING,-,-,14 m,-,-,China,https://magicport.ai/vessels/fishing/zheshengyuyun80828-mmsi-412428798
+ZHESHENGYUYUN80916,412428502,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyuyun80916-mmsi-412428502
+ZHESHENGYUYUN81323,412428480,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zheshengyuyun81323-mmsi-412428480
+ZHESHENGYUYUN81338,412428405,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheshengyuyun81338-mmsi-412428405
+ZHETAIYU28733,412414485,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhetaiyu28733-mmsi-412414485
+ZHETAIYU8108,412410085,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhetaiyu8108-mmsi-412410085
+ZHETAIYU88712,412621226,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhetaiyu88712-mmsi-412621226
+ZHEWANGYANG0083,415327944,-,00G0083,Fishing / FISHING,-,-,18 m,-,-,-,https://magicport.ai/vessels/fishing/zhewangyang0083-mmsi-415327944
+ZHEXIANGYU02116,412508307,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu02116-mmsi-412508307
+ZHEXIANGYU04101,412436164,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu04101-mmsi-412436164
+ZHEXIANGYU04113,412404113,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu04113-mmsi-412404113
+ZHEXIANGYU05126,412436775,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu05126-mmsi-412436775
+ZHEXIANGYU05405,412437327,-,-,Fishing / FISHING,-,-,9 m,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu05405-mmsi-412437327
+ZHEXIANGYU05407,412439746,-,-,Fishing / FISHING,-,-,7 m,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu05407-mmsi-412439746
+ZHEXIANGYU06055 5,6055005,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu06055-5-mmsi-6055005
+ZHEXIANGYU06066,412406066,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu06066-mmsi-412406066
+ZHEXIANGYU06068,412406068,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhexiangyu06068-mmsi-412406068
+ZHEXIANGYU07030,412438105,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu07030-mmsi-412438105
+ZHEXIANGYU11022,412436553,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu11022-mmsi-412436553
+ZHEXIANGYU12908,412412908,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu12908-mmsi-412412908
+ZHEXIANGYU13072,412438338,-,13072,Fishing / FISHING,-,-,30 m,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu13072-mmsi-412438338
+ZHEXIANGYU25152,412435886,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu25152-mmsi-412435886
+ZHEXIANGYU25218,412437362,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu25218-mmsi-412437362
+ZHEXIANGYU25706,412439861,-,YR0,Fishing / FISHING,-,-,35 m,-,-,China,https://magicport.ai/vessels/fishing/zhexiangyu25706-mmsi-412439861
+ZHEXIANGYU25752 85,412201007,-,15387,Fishing / FISHING,-,-,30 m,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu25752-85-mmsi-412201007
+ZHEXIANGYU28028,412436502,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu28028-mmsi-412436502
+ZHEXIANGYU29090,412435205,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu29090-mmsi-412435205
+ZHEXIANGYU29712,412437554,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhexiangyu29712-mmsi-412437554
+ZHEXIANGYU30188,412435817,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhexiangyu30188-mmsi-412435817
+ZHEXIANGYU30225,412437067,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu30225-mmsi-412437067
+ZHEXIANGYU31039,412437512,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu31039-mmsi-412437512
+ZHEXIANGYU40151,413040151,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu40151-mmsi-413040151
+ZHEXIANGYU41008,900029390,-,-,Fishing / FISHING,-,-,40 m,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu41008-mmsi-900029390
+ZHEXIANGYU44015,412437007,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu44015-mmsi-412437007
+ZHEXIANGYU46116,412435395,-,46116,Fishing / FISHING,-,-,30 m,-,-,China,https://magicport.ai/vessels/fishing/zhexiangyu46116-mmsi-412435395
+ZHEXIANGYU49068,412449068,-,0,Fishing / FISHING,-,-,40 m,-,-,China,https://magicport.ai/vessels/fishing/zhexiangyu49068-mmsi-412449068
+ZHEXIANGYU49088,412449488,-,49088,Fishing / FISHING,-,-,26 m,-,-,China,https://magicport.ai/vessels/fishing/zhexiangyu49088-mmsi-412449488
+ZHEXIANGYU49268,413449268,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu49268-mmsi-413449268
+ZHEXIANGYU50198,412436142,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu50198-mmsi-412436142
+ZHEXIANGYU50307,412437371,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu50307-mmsi-412437371
+ZHEXIANGYU76066 3,76066003,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu76066-3-mmsi-76066003
+ZHEXIANGYU76066 4,76066004,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu76066-4-mmsi-76066004
+ZHEXIANGYU76068,412439753,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyu76068-mmsi-412439753
+ZHEXIANGYUA24003,412424004,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyua24003-mmsi-412424004
+ZHEXIANGYUYUN 02111,412437004,-,-,Fishing / FISHING,-,-,43 m,-,-,China,https://magicport.ai/vessels/fishing/zhexiangyuyun-02111-mmsi-412437004
+ZHEXIANGYUYUN02006,412437064,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhexiangyuyun02006-mmsi-412437064
+ZHEXIANGYUYUN03131,412437136,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhexiangyuyun03131-mmsi-412437136
+ZHEYANYU00006,412411478,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/zheyanyu00006-mmsi-412411478
+ZHEYINYU11463,412436443,-,11463,Fishing / FISHING,-,-,11 m,-,-,China,https://magicport.ai/vessels/fishing/zheyinyu11463-mmsi-412436443
+ZHEYINYU11788,412438367,-,11788,Fishing / FISHING,-,-,16 m,-,-,China,https://magicport.ai/vessels/fishing/zheyinyu11788-mmsi-412438367
+ZHEYINYU12190,412435945,-,12190,Fishing / FISHING,-,-,23 m,-,-,-,https://magicport.ai/vessels/fishing/zheyinyu12190-mmsi-412435945
+ZHEYINYU12446,412436232,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zheyinyu12446-mmsi-412436232
+ZHEYU07159 18 80,107000006,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheyu07159-18-80-mmsi-107000006
+ZHEYUYU16677,412414661,-,16677,Fishing / FISHING,-,-,40 m,-,-,China,https://magicport.ai/vessels/fishing/zheyuyu16677-mmsi-412414661
+ZHEYUYU3030,412439925,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheyuyu3030-mmsi-412439925
+ZHEYUYU32001,412334344,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheyuyu32001-mmsi-412334344
+ZHEYUYU33667,412415023,-,33667,Fishing / FISHING,-,-,40 m,-,-,China,https://magicport.ai/vessels/fishing/zheyuyu33667-mmsi-412415023
+ZHEYUYU50015,412435773,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheyuyu50015-mmsi-412435773
+ZHEYUYU52006,412415503,-,-,Fishing / FISHING,-,-,38 m,-,-,China,https://magicport.ai/vessels/fishing/zheyuyu52006-mmsi-412415503
+ZHEYUYU55038,412414506,-,-,Fishing / FISHING,-,-,45 m,-,-,China,https://magicport.ai/vessels/fishing/zheyuyu55038-mmsi-412414506
+ZHEYUYU76222,412415017,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheyuyu76222-mmsi-412415017
+ZHEYUYU83128,412414742,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheyuyu83128-mmsi-412414742
+ZHEYUYU91002,412415878,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zheyuyu91002-mmsi-412415878
+ZHICONG 5 71,412201192,-,-,Fishing / FISHING,-,-,10 m,-,-,-,https://magicport.ai/vessels/fishing/zhicong-5-71-mmsi-412201192
+ZHONG GUO 39712,201786789,-,-,Fishing / FISHING,-,-,30 m,-,-,-,https://magicport.ai/vessels/fishing/zhong-guo-39712-mmsi-201786789
+ZHONGGUO00635,600941638,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhongguo00635-mmsi-600941638
+ZHONGGUOYU0072,800051495,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhongguoyu0072-mmsi-800051495
+ZHONGGUOYU0078,800051499,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhongguoyu0078-mmsi-800051499
+ZHONGGUOYU34082,9988081,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhongguoyu34082-mmsi-9988081
+ZHONGGUOYUZHENG13009,412284896,-,0000000,Fishing / FISHING,-,-,60 m,-,-,China,https://magicport.ai/vessels/fishing/zhongguoyuzheng13009-mmsi-412284896
+ZHONGGUOYUZHENG35136,412443196,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhongguoyuzheng35136-mmsi-412443196
+ZHONGYANG23 18 7V6,900230018,-,-,Fishing / FISHING,-,-,8 m,-,-,-,https://magicport.ai/vessels/fishing/zhongyang23-18-7v6-mmsi-900230018
+ZHONGYOUHAI101 3,101000003,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhongyouhai101-3-mmsi-101000003
+ZHOU YU 930,412549321,-,BZW1Y,Fishing / FISHING,560 MTs,327 MTs,52 m,2021,-,China,https://magicport.ai/vessels/fishing/zhou-yu-930-mmsi-412549321
+ZHOU YU929,412549319,-,BZW9X,Fishing / FISHING,560 MTs,327 MTs,52 m,2021,-,China,https://magicport.ai/vessels/fishing/zhou-yu929-mmsi-412549319
+ZHU DAN 5409,412482078,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhu-dan-5409-mmsi-412482078
+ZHU GUI 6604,412465548,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-gui-6604-mmsi-412465548
+ZHU WAN 3453,412482169,-,3453,Fishing / FISHING,-,-,30 m,-,-,China,https://magicport.ai/vessels/fishing/zhu-wan-3453-mmsi-412482169
+ZHU WAN 3459,412465543,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-wan-3459-mmsi-412465543
+ZHU WAN 3522,412465847,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-wan-3522-mmsi-412465847
+ZHU WAN 3605,412482507,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-wan-3605-mmsi-412482507
+ZHU WAN 3613,412482496,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhu-wan-3613-mmsi-412482496
+ZHU WAN 3685,412480741,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-wan-3685-mmsi-412480741
+ZHU WAN 4075,412481458,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-wan-4075-mmsi-412481458
+ZHU WAN 4166,412482562,-,0000000,Fishing / FISHING,-,-,8 m,-,-,China,https://magicport.ai/vessels/fishing/zhu-wan-4166-mmsi-412482562
+ZHU WAN 4629,412481559,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-wan-4629-mmsi-412481559
+ZHU XIAN 1556,412482398,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-xian-1556-mmsi-412482398
+ZHU XIANG 1389,412482235,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-xiang-1389-mmsi-412482235
+ZHU XIANG 1668,412482262,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zhu-xiang-1668-mmsi-412482262
+ZHU XIANG 1683,412465685,-,1683,Fishing / FISHING,-,-,25 m,-,-,China,https://magicport.ai/vessels/fishing/zhu-xiang-1683-mmsi-412465685
+ZHU XIANG 1832,412481756,-,-,Fishing / FISHING,-,-,24 m,-,-,China,https://magicport.ai/vessels/fishing/zhu-xiang-1832-mmsi-412481756
+ZHU XIANG 2491,412465684,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-xiang-2491-mmsi-412465684
+ZHU XIANG 2801,412480758,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhu-xiang-2801-mmsi-412480758
+ZHU XIANG1165,412480875,-,0001165,Fishing / FISHING,-,-,7 m,-,-,China,https://magicport.ai/vessels/fishing/zhu-xiang1165-mmsi-412480875
+ZHUDAN5028,412476475,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhudan5028-mmsi-412476475
+ZHUGUI6623,412529685,-,0006623,Fishing / FISHING,-,-,25 m,-,-,China,https://magicport.ai/vessels/fishing/zhugui6623-mmsi-412529685
+ZHUWAN4071,412529681,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhuwan4071-mmsi-412529681
+ZHUXIANG1549,412482159,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zhuxiang1549-mmsi-412482159
+ZIN FA CAI 66,416033019,-,-,Fishing / FISHING,-,-,-,-,-,Taiwan,https://magicport.ai/vessels/fishing/zin-fa-cai-66-mmsi-416033019
+ZKHX,413810268,-,-,Fishing / FISHING,-,-,-,-,-,China,https://magicport.ai/vessels/fishing/zkhx-mmsi-413810268
+ZLY12815 550,500012815,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zly12815-550-mmsi-500012815
+ZONG11155 0999,111550009,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zong11155-0999-mmsi-111550009
+ZONG11155 7 39,111550007,-,-,Fishing / FISHING,-,-,90 m,-,-,-,https://magicport.ai/vessels/fishing/zong11155-7-39-mmsi-111550007
+ZPY80222 13 52,235002274,-,-,Fishing / FISHING,-,-,10 m,-,-,United Kingdom,https://magicport.ai/vessels/fishing/zpy80222-13-52-mmsi-235002274
+ZSY01406 8099,800001406,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zsy01406-8099-mmsi-800001406
+ZTJ CZ2 49 92,413025049,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/ztj-cz2-49-92-mmsi-413025049
+ZUMRA NISA,271072620,-,-,Fishing / FISHING,-,-,-,-,-,-,https://magicport.ai/vessels/fishing/zumra-nisa-mmsi-271072620
